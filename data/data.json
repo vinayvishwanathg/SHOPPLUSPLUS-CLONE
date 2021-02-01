@@ -1,0 +1,33 @@
+{
+  "mobiles":[
+      {
+        "name":"redmi note 7",
+        "image":"images/redmi.jpg",
+        "originalPrice":13000,
+        "price":16999
+        },{ 
+            "name":"samsung A30",
+            "image":"images/sam.jpg",
+            "originalPrice":12000,
+            "price":1499
+
+        },{
+            "name":"micromax",
+            "image":"images/max.jpg",
+            "originalPrice":9000,
+            "price":10000
+            
+        },{   
+            "name":"apple SE",
+             "image":"images/apple.jpg",
+            "originalPrice":30000,
+            "price":32000
+
+        },{
+            "name":"honor 7A",
+            "image":"images/honor.jpg",
+            "originalPrice":10000,
+            "price":12000
+        }
+   ]  
+}
