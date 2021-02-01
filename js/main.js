@@ -1,4 +1,4 @@
-fetch("../data/data.json").then(response=>
+fetch("https://kolarenuka.github.io/javascript-ecomerce/data/data.json").then(response=>
     {
         return response.json()
     }).then(data=>
